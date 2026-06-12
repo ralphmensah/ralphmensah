@@ -2,7 +2,7 @@
 ---
 
 - 🌱 I’m currently learning Systems Design and Architecture.
-- 🧠 I currently focus on Angular,Kotlin(Spring Boot), Android and Microservices.
+- 🧠 I currently focus on Building with AI,Java and Cloud/ Distributed Systems.
 - 💪 I code because it makes my brain tingle abit.
 - 🧩 I'm also passionate about Artisry, Motion Graphics. 
 - 😄 Pronouns: He/Him/His
